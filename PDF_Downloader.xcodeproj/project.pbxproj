@@ -13,6 +13,7 @@
 		1393833226D2269C00A026F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1393833026D2269C00A026F4 /* Main.storyboard */; };
 		1393833426D2269D00A026F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1393833326D2269D00A026F4 /* Assets.xcassets */; };
 		1393833726D2269D00A026F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1393833526D2269D00A026F4 /* LaunchScreen.storyboard */; };
+		1393834026D238A300A026F4 /* PdfViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1393833F26D238A300A026F4 /* PdfViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1393833326D2269D00A026F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1393833626D2269D00A026F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1393833826D2269D00A026F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1393833F26D238A300A026F4 /* PdfViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PdfViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				1393833326D2269D00A026F4 /* Assets.xcassets */,
 				1393833526D2269D00A026F4 /* LaunchScreen.storyboard */,
 				1393833826D2269D00A026F4 /* Info.plist */,
+				1393833F26D238A300A026F4 /* PdfViewController.swift */,
 			);
 			path = PDF_Downloader;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 				1393832F26D2269C00A026F4 /* ViewController.swift in Sources */,
 				1393832B26D2269C00A026F4 /* AppDelegate.swift in Sources */,
 				1393832D26D2269C00A026F4 /* SceneDelegate.swift in Sources */,
+				1393834026D238A300A026F4 /* PdfViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
