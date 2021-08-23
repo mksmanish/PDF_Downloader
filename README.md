@@ -6,6 +6,7 @@ This App will take the Pdf URL and download that from the server and also ,you c
   some code snippets
   ```
     func setupPDFView() {
+    
            let pdfView = PDFView()
            pdfView.translatesAutoresizingMaskIntoConstraints = true
            pdfView.autoScales = true
@@ -14,6 +15,7 @@ This App will take the Pdf URL and download that from the server and also ,you c
            view.addSubview(pdfView)
            
            // gettting the downloaded pdf
+           
            if let document = PDFDocument(url:pdfUrl) {
                pdfView.document = document
            }
