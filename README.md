@@ -1,5 +1,5 @@
 # PDF_Downloader
-This App will take the Pdf URL and download that from the server and also ,you can view that.<br>
+This App will take the Pdf URL and download that from the server and also.You can view that in PDFKit.<br>
 1.Put the url in the text box ,it should of the some pdf url.<br>
 2.Download using the button.<br>
 3.content view also.it is having the content preview functionality.<br>
